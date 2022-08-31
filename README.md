@@ -29,10 +29,11 @@ false
 Take note of the various variables and their data types. Write a brief summary in this section of the README.md file listing the:
 * Variable name
 * Its data type
-* and example values you can assign them.
+* and example values you can assign them.  So the main integer to be changed is int people, and the number can be changed to whatever number that makes it work.
 
 Next give TWO example variable names and TWO example variable assignments that are *WRONG* and explain why.
-* Hint: your IDE can help you discover these!
+* Hint: your IDE can help you discover these!  Int people 2 was changed to int people 3 because it corrected almost all the numerical values.  
+* The item price needed to be changed because it was in a different string then the rest of the numerical values.  
 
 ### Part 3 - Bonus: Play around with Java String Format Specifiers.
 
